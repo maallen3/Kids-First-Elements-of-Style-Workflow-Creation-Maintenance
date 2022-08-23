@@ -235,6 +235,12 @@ But now if you simply *`cd`* into the proper directory.
 cd Kids-First-Elements-of-Style-Workflow-Creation-Maintenance
 ```
 
+Then type this again. 
+
+```bash
+git remote -v
+```
+
 You should see something like this:
 
 ```bash
